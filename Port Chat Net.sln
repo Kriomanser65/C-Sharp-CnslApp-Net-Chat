@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Port Chat Net", "Port Chat Net\Port Chat Net.csproj", "{D50F9AEA-31D7-4FD2-A7A2-0271F95FCB09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D50F9AEA-31D7-4FD2-A7A2-0271F95FCB09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D50F9AEA-31D7-4FD2-A7A2-0271F95FCB09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D50F9AEA-31D7-4FD2-A7A2-0271F95FCB09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D50F9AEA-31D7-4FD2-A7A2-0271F95FCB09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C60DEFE6-8739-43D8-A37E-FEC21ABDCD13}
+	EndGlobalSection
+EndGlobal
